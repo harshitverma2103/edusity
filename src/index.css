@@ -42,3 +42,8 @@ a {
   margin-left: 10px;
   margin-top: 5%;
 }
+
+.btn.dark-btn{
+  background-color: #212EA0;
+  color: #fff;
+}
