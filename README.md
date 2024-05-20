@@ -1,8 +1,10 @@
 <h1 align="center">Technologies Used</h1>
+
 - HTML
 - CSS
 - JavaScript
-- React.Js
+- React.js
+
 
 ## Project link 
 ```
@@ -12,8 +14,8 @@ https://edusity-chi.vercel.app/
 To clone and run this project locally, follow these steps:
 
 1. **Clone the repository**:
-   ```sh
-   git clone git@github.com:harshitverma2103/edusity.git
+```sh
+git clone git@github.com:harshitverma2103/edusity.git
 
 2. Navigate to the project directory:
 ```
