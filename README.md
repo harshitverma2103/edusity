@@ -16,6 +16,7 @@ To clone and run this project locally, follow these steps:
 1. **Clone the repository**:
 ```sh
 git clone git@github.com:harshitverma2103/edusity.git
+```
 
 2. Navigate to the project directory:
 ```
