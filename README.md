@@ -13,7 +13,7 @@ https://edusity-chi.vercel.app/
 ## Installation
 To clone and run this project locally, follow these steps:
 
-1. **Clone the repository**:
+<h1 align="center">1. Clone the repository: </h1>
 ```sh
 git clone git@github.com:harshitverma2103/edusity.git
 ```
