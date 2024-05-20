@@ -10,11 +10,12 @@
 ```
 https://edusity-chi.vercel.app/
 ```
-## Installation
-To clone and run this project locally, follow these steps:
+## Clone
+<h2>To clone and run this project locally, follow these steps:</h2>
 
 <h1 align="center">1. Clone the repository: </h1>
-```sh
+
+```
 git clone git@github.com:harshitverma2103/edusity.git
 ```
 
