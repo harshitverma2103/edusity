@@ -19,17 +19,17 @@ https://edusity-chi.vercel.app/
 git clone git@github.com:harshitverma2103/edusity.git
 ```
 
-2. Navigate to the project directory:
+<h1 align="center"> 2. Navigate to the project directory: </h1>
 ```
 cd Vite-project
 ```
 
-3. Install dependencies :
+<h1 align="center"> 3. Install dependencies: </h1>
 ```
 npm install
 ```
 
-4. Start the development server:
+<h1 align="center"> 4. Start the development server: </h1>
 ```
 npm start
 ```
