@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { Analytics } from '@vercel/analytics/react';
 import Navbar from "./Components/Navbar/Navbar";
 import Hero from "./Components/Hero/Hero";
 import Program from "./Components/Programs/Program";
@@ -30,6 +31,7 @@ const App = () => {
         <Footer />
       </div>
       <VideoPlayer playState={playState} setPlayState={setPlayState} />
+      <Analytics />
     </div>
   );
 };
