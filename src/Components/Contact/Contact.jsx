@@ -51,12 +51,12 @@ const Contact = () => {
           </li>
           <li>
             <img src={Phone_icon} alt="" />
-            +91-8445260133
+            +91-84452601xx
           </li>
           <li>
             <img src={location_icon} alt="" />
-            C-555 New Ashok Nagar,
-            <br /> Delhi-110069, INDIA
+            C-5xx New Ashok Nagar,
+            <br /> Delhi-1100xx, INDIA
           </li>
         </ul>
       </div>
